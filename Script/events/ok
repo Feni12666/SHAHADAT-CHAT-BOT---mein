@@ -10,4 +10,4 @@ module.exports.run = async function({ api, event }) {
   console.log("===== Event received =====");
   console.log(event);
   console.log("==========================");
-};
+}; 
