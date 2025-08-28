@@ -1,0 +1,13 @@
+module.exports.config = {
+  name: "logger",
+  eventType: ["message", "log:user-nickname", "log:subscribe", "log:unsubscribe"],
+  version: "1.0.0",
+  credits: "debug",
+  description: "Log all incoming events for testing"
+};
+
+module.exports.run = async function({ api, event }) {
+  console.log("===== Event received =====");
+  console.log(event);
+  console.log("==========================");
+};
