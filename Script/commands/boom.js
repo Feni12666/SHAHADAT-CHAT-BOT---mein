@@ -21,22 +21,522 @@ module.exports.run = async function({ api, args, Users, event}) {
         arraytag.push({id: mention});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 a("73R! 83H4N K4 9HUD4 M4RO9 ! G4NDU K4 BACHA 😝😝😝❤️😂😂TERI AMA KI KALI GAND MAROU 😂😂 CONDOMS LGA KY 😂😂😂❤️");
-setTimeout(() => {a({body: "777333RRR111 BAAHN KKK111 LLLLAAALLL GGGGAAANNNDDD VVVIICHHH M3RRR444 LLLLOOORRRAAAA 😂😂😂😂" })}, 3000);
+setTimeout(() => {a({body: " kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+ 777333RRR111 BAAHN KKK111 LLLLAAALLL GGGGAAANNNDDD VVVIICHHH M3RRR444 LLLLOOORRRAAAA 😂😂😂😂" })}, 3000);
 setTimeout(() => {a({body: "RRRRRRAAAAANNNNNDDDIIIIIII KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA❤️❤️❤️ 😂😂😂"})}, 6000);
-setTimeout(() => {a({body: "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMAAAAAAADDDDDDEEEEERRRRRRRRRRRRRR CCCCCCHHHHHHOOOOOOOOODDDDDDDD KI OLAD😝😝❤️❤️😂😂😂😂" })}, 9000);
+setTimeout(() => {a({body: "MMMMMMMMMMMkire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+MMMMMMMMMMMMMMMMMMMMMMMMMMAAAAAAADDDDDDEEEEERRRRRRRRRRRRRR CCCCCCHHHHHHOOOOOOOOODDDDDDDD KI OLAD😝😝❤️❤️😂😂😂😂" })}, 9000);
 setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MNMMAAAAAARRRRROOOOOUUUUUUUUU 😂😂😂😂🤔🤔😝😝😝😝❤️😂😂😂❤️" })}, 12000);
 setTimeout(() => {a({body: "BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN 😂😂😂😂CCCCCCHHHHHHOOOOOOOOODDDDDDDD GGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNDDDDDDDDDDDDDDDUUUUUUUUUUUUUU❤️❤️❤️❤️😂😂😂 ❤️❤️❤️" })}, 15000);
 setTimeout(() => {a({body: "777333RRR111 BAAHN KKK111 LLLLAAALLL GGGGAAANNNDDD VVVIICHHH M3RRR444 LLLLOOORRRAAAA 😂😂😂😂" })}, 18000);
 setTimeout(() => {a({body: "TTTTEEEXXXXXIIIII KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA 😂😂😂😂 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA BBBBOOOOBSSS CCCCCCCCCCHHHHHHHUUUUUUUUUSSSSSSSUUUUUUUU 😂😂😂😂❤️❤️❤️😂😂😂" })}, 21000);
 setTimeout(() => {a({body: "GGGGGGGGGGGGGGGHHHHHHAAAAAASSSSSSHHHHHHHTTTTTTTTTTIIIIIIIIIIIIIIIIIIIIIIIIIII KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA 😂😂😂😂😂😝😝😝😝😝❤️ MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMAAAAAAADDDDDDEEEEERRRRRRRRRRRRRR CCCCCCHHHHHHOOOOOOOOODDDDDDDD ☹️☹️☹️☹️☹️😝😝😝☹️❤️❤️" })}, 24000);
 setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII AAAAAAMMMMMMMAAAAAAAA KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMMMMMAAAAAA TTTTTTTTAAAAAAIIIIIILLLLLLLL LLLLLLGGGGGGGAAAAAA KKKKKKKKKAAAAAAAA LLLLAAAAND DDDDDDOIUUUUUUU 😝😝😝😂😂😂😂❤️❤️❤️❤️❤️" })}, 27000);
-setTimeout(() => {a({body: ":p :p :p :p :p :p :p :p🖕🏻🖕🏻🖕🏻🖕🏻 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMAAA UUUUUUNNNNNGGGGGLLLLLIIIIIII DDDDDDOIUUUUUUU 😂😂😂😂❤️❤️❤️🖕🏻🖕🏻🖕🏻" })}, 300000);
+setTimeout(() => {a({body: ":p :p :p :p :p :p :p :p🖕🏻🖕🏻🖕🏻🖕🏻 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKkire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+KKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMAAA UUUUUUNNNNNGGGGGLLLLLIIIIIII DDDDDDOIUUUUUUU 😂😂😂😂❤️❤️❤️🖕🏻🖕🏻🖕🏻" })}, 300000);
 setTimeout(() => {a({body: "HHHHHHHHHHHHHAAAAAAAARRRRRRRRRRAAAAAAAMMMMMMMMMMM KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOLLLLLLLLAAAAAAAAADDDDDD TTTTT333333RRRRRRRR111111 BBBBB33333HHHHHHHAAAAAANNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA PPPPPPUUUUUUUSSSHHHHH KEERRROOOOUUUU 😂😂😂😂❤️❤️❤️❤️" })}, 33000);
-setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️" })}, 34000);
+setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAkire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+HHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️" })}, 34000);
 setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️" })}, 36000);
 setTimeout(() => {a({body: "TTTTEEEXXXXXIIIII KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA GGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNDDDDDDDDDDDDDDDUUUUUUUUUUUUUU NNNNAASSAAAALLLL KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOOLLLLLLLLLLLAAAAAAAADDDDDD 😂😂😂😂😂❤️❤️❤️❤️😝" })}, 39000);
 setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII AAAAAAMMMMMMMAAAAAAAA KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMMMMMAAAAAA TTTTTTTTAAAAAAIIIIIILLLLLLLL LLLLLLGGGGGGGAAAAAA KKKKKKKKKAAAAAAAA LLLLAAAAND DDDDDDOIUUUUUUU 😝😝😝😂😂😂😂❤️❤️❤️❤️❤️" })}, 40000);
-setTimeout(() => {a({body: "🖕🏻🖕🏻🖕🏻🖕🏻 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMAAA UUUUUUNNNNNGGGGGLLLLLIIIIIII DDDDDDOIUUUUUUU 😂😂😂😂❤️❤️❤️🖕🏻🖕🏻🖕🏻HHHHHHHHHHHHHAAAAAAAARRRRRRRRRRAAAAAAAMMMMMMMMMMM KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOLLLLLLLLAAAAAAAAADDDDDD TTTTT333333RRRRRRRR111111 BBBBB33333HHHHHHHAAAAAANNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA PPPPPPUUUUUUUSSSHHHHH KEERRROOOOUUUU 😂😂😂😂❤️❤️❤️❤️TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️" })}, 43000);
+setTimeout(() => {a({body: "🖕🏻🖕🏻🖕🏻🖕🏻 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUkire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+kire
+   kire
+      kire
+         kire
+            kire
+               kire
+            kire
+         kire
+      kire
+   kire
+DDDDAAAAAA MMMMMMAAA UUUUUUNNNNNGGGGGLLLLLIIIIIII DDDDDDOIUUUUUUU 😂😂😂😂❤️❤️❤️🖕🏻🖕🏻🖕🏻HHHHHHHHHHHHHAAAAAAAARRRRRRRRRRAAAAAAAMMMMMMMMMMM KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOLLLLLLLLAAAAAAAAADDDDDD TTTTT333333RRRRRRRR111111 BBBBB33333HHHHHHHAAAAAANNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA PPPPPPUUUUUUUSSSHHHHH KEERRROOOOUUUU 😂😂😂😂❤️❤️❤️❤️TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️" })}, 43000);
 setTimeout(() => {a({body: "TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII AAAAAAMMMMMMMAAAAAAAA KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMMMMMAAAAAA TTTTTTTTAAAAAAIIIIIILLLLLLLL LLLLLLGGGGGGGAAAAAA KKKKKKKKKAAAAAAAA LLLLAAAAND DDDDDDOIUUUUUUU 😝😝😝😂😂😂😂❤️❤️❤️❤️❤️TTTTEEEXXXXXIIIII KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA GGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNDDDDDDDDDDDDDDDUUUUUUUUUUUUUU NNNNAASSAAAALLLL KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOOLLLLLLLLLLLAAAAAAAADDDDDD 😂😂😂😂😂❤️❤️❤️❤️😝TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKIIIIIIIIIIIIIIII LAAAALLLL GGGGGGGGGAAAAAAAANNNNNNNNDDDDD MAROU 😂😂😂😂❤️❤️❤️❤️❤️HHHHHHHHHHHHHAAAAAAAARRRRRRRRRRAAAAAAAMMMMMMMMMMM KKKKKKKIIIIIIIIIIIIIIII OOOOOOOOOOOLLLLLLLLAAAAAAAAADDDDDD TTTTT333333RRRRRRRR111111 BBBBB33333HHHHHHHAAAAAANNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA PPPPPPUUUUUUUSSSHHHHH KEERRROOOOUUUU 😂😂😂😂❤️❤️❤️❤️🖕🏻🖕🏻🖕🏻🖕🏻 TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KKKKKKKKKAAAAAAAA PPPPPPPPUUUUUUUDDDDAAAAAA MMMMMMAAA UUUUUUNNNNNGGGGGLLLLLIIIIIII DDDDDDOIUUUUUUU 😂😂😂😂❤️❤️❤️🖕🏻🖕🏻🖕🏻" })}, 46000);
 setTimeout(() => {a({body: "GGGGGGGGGGGGGGGHHHHHHAAAAAASSSSSSHHHHHHHTTTTTTTTTTIIIIIIIIIIIIIIIIIIIIIIIIIIIJ KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KOOOOOOO LLLLAAAAND DDDDDDOIUUUUUUU GGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNDDDDDDDDDDDDDDDUUUUUUUUUUUUUU 🥰🥰🥰🥰🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻☹️☹️☹️😝😝😝😝😝🤔🤔🤔🤔🤔😂😂😂😂" })} , 49000);
 setTimeout(() => {a({body: "GGGGGGGGGGGGGGGHHHHHHAAAAAASSSSSSHHHHHHHTTTTTTTTTTIIIIIIIIIIIIIIIIIIIIIIIIIIIJ KKKKKKKKKAAAAAAAA BBBBBAAACCCCHHHAAAAA TTTTTTTTTEEEEERRRRRRIIIIIIIIIIIII BBBBBBBBBBBAAAAAAHHHHHHHAAAAAAAAANNNNNNNNNNNNNNNNNNN KOOOOOOO LLLLAAAAND DDDDDDOIUUUUUUU GGGGGGGGGGGGGGGGGAAAAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNNNNNNNNNNNNDDDDDDDDDDDDDDDUUUUUUUUUUUUUU 🥰🥰🥰🥰🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻🖕🏻☹️☹️☹️😝😝😝😝😝🤔🤔🤔🤔🤔😂😂😂😂" })} , 52000);
