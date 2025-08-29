@@ -23,7 +23,7 @@ module.exports = {
     try {
       
       if (!args[0]) {
-        return api.sendMessage("⚠️ Please provide your birth date in DD/MM/YYYY format\nExample: age 16/12/2006", event.threadID);
+        return api.sendMessage("⚠️ Please provide your birth date in DD/MM/YYYY format\nExample: age 04/04/2000", event.threadID);
       }
 
       const input = args[0];
