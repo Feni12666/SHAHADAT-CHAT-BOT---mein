@@ -5,7 +5,7 @@
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
@@ -16,15 +16,18 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+    "reactUnsend": [
+        "🐸",
+        "😡"
+    ],
+    "BOTNAME": "𝐬𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐜𝐡𝐚𝐭 𝐛𝐨𝐭",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61578407169938",
         "100001088468923",
-        ""
+        "61572299956804"
     ],
-    "NDH": [
-        "100001088468923"
+    "NDH": ["100001088468923",
+        "61572299956804"
     ],
     "DATABASE": {
         "sqlite": {
@@ -52,7 +55,7 @@
     },
     "daily": {
         "cooldownTime": 43200000,
-        "rewardCoin": 1000
+        "rewardCoin": 1000000000
     },
     "diemdanh": {
         "cooldownTime": 3000000
@@ -232,11 +235,17 @@
         "autoUnsend": true,
         "delayUnsend": 300
     },
+    "spam": {
+        "autoUnsend": "",
+        "delayUnsend": 2000
+    },
+    "adminNoti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
     "helpall": {
         "autoUnsend": true,
         "delayUnsend": 20
-    },
-    "vip": {
-        "cooldownTime": 1200000
     }
 }
