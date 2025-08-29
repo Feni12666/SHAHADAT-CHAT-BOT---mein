@@ -2,7 +2,7 @@ module.exports.config = {
  name: "help",
  version: "1.0.4",
  hasPermssion: 0,
- credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
+ credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐡𝐨𝐬𝐞𝐧",
  description: "Shows all commands with details",
  commandCategory: "system",
  usages: "[command name/page number]",
@@ -18,7 +18,7 @@ module.exports.languages = {
  "moduleInfo": `
 
 
-╭━━━━━━━━━━━━━━━━╮\n┃ ✨ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 ✨\n┣━━━━━━━━━━━┫\n┃ 🔖 Name: %1\n┃ 📄 Page: %2/%3\n┃ 🧮 Total: %4\n┣━━━━━━━━━━━━━━━━┫\n%5\n┣━━━━━━━━━━━━━━━━┫\n┃ ⚙ Prefix: %6\n┃ 🤖 Bot Name: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭\n┃ 👑 Owner: 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦\n╰━━━━━━━━━━━━━━━━╯
+╭━━━━━━━━━━━━━━━━╮\n┃ ✨ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐃𝐄𝐓𝐀𝐈𝐋𝐒 ✨\n┣━━━━━━━━━━━┫\n┃ 🔖 Name: %1\n┃ 📄 Page: %2/%3\n┃ 🧮 Total: %4\n┣━━━━━━━━━━━━━━━━┫\n%5\n┣━━━━━━━━━━━━━━━━┫\n┃ ⚙ Prefix: %6\n┃ 🤖 Bot Name: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭\n┃ 👑 Owner: 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐡𝐨𝐬𝐞𝐧\n╰━━━━━━━━━━━━━━━━╯
 
 
 
@@ -88,17 +88,17 @@ module.exports.run = function ({ api, event, args, getText }) {
  const text = `
 
 
-╭━━━━━━━━━━━━━━━━╮\n┃ 📜 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 📜\n┣━━━━━━━━━━━━━━━┫\n┃ 📄 Page: ${page}/${totalPages}\n┃ 🧮 Total: ${arrayInfo.length}\n┣━━━━━━━━━━━━━━━━┫\n${msg}┣━━━━━━━━━━━━━━━━┫\n┃ ⚙ Prefix: ${prefix}\n┃ 🤖 Bot Name: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭\n┃ 👑 Owner Name: 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦\n╰━━━━━━━━━━━━━━━━╯
+╭━━━━━━━━━━━━━━━━╮\n┃ 📜 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 📜\n┣━━━━━━━━━━━━━━━┫\n┃ 📄 Page: ${page}/${totalPages}\n┃ 🧮 Total: ${arrayInfo.length}\n┣━━━━━━━━━━━━━━━━┫\n${msg}┣━━━━━━━━━━━━━━━━┫\n┃ ⚙ Prefix: ${prefix}\n┃ 🤖 Bot Name: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭\n┃ 👑 Owner Name: 𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐡𝐨𝐬𝐞𝐧\n╰━━━━━━━━━━━━━━━━╯
 
 `;
 
  const imgPath = __dirname + "/cache/helppic.jpg";
  const callback = () => api.sendMessage({ body: text, attachment: fs.createReadStream(imgPath) }, threadID, () => fs.unlinkSync(imgPath), messageID);
- return request("https://i.imgur.com/sxSn1K3.jpeg").pipe(fs.createWriteStream(imgPath)).on("close", () => callback());
+ return request("https://i.imgur.com/AwUV3RJ.jpeg").pipe(fs.createWriteStream(imgPath)).on("close", () => callback());
  }
 
  const detail = getText("moduleInfo", command.config.name, "1", "1", "1", `┃ ✪ ${command.config.name} - ${command.config.description}`, prefix);
  const imgPath = __dirname + "/cache/helppic.jpg";
  const callback = () => api.sendMessage({ body: detail, attachment: fs.createReadStream(imgPath) }, threadID, () => fs.unlinkSync(imgPath), messageID);
- return request("https://i.imgur.com/sxSn1K3.jpeg").pipe(fs.createWriteStream(imgPath)).on("close", () => callback());
+ return request("https://i.imgur.com/AwUV3RJ.jpeg").pipe(fs.createWriteStream(imgPath)).on("close", () => callback());
 };
